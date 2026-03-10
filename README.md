@@ -3,6 +3,9 @@
 Desarrollador **Fullstack Junior** | Aprendiendo **DevOps**  
 Ampliando conocimientos en desarrollo web, infraestructura y automatización, y **estudiando inglés para ampliar oportunidades**.
 
+![Bootcamp Completed](https://img.shields.io/badge/Bootcamp-Completed-brightgreen) ![Learning English](https://img.shields.io/badge/English-Learning-blue)
+
+
 ---
 
 ## 🚀 Proyecto destacado: Patitas Unidas
