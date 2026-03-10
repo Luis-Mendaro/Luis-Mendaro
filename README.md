@@ -1,17 +1,22 @@
 # Luis Mendaro 👋
 
 Desarrollador **Fullstack Junior** | Aprendiendo **DevOps**  
-Ampliando conocimientos en desarrollo web, infraestructura y automatización, y **estudiando inglés para ampliar oportunidades**.
+Ampliando conocimientos en desarrollo web, infraestructura y automatización, y **estudiando inglés para ampliar oportunidades**.  
 
-![Bootcamp Completed](https://img.shields.io/badge/Bootcamp-Completed-brightgreen) ![Learning English](https://img.shields.io/badge/English-Learning-blue)
-
+![Bootcamp Completed](https://img.shields.io/badge/Bootcamp-Completed-brightgreen?style=for-the-badge) ![Learning English](https://img.shields.io/badge/English-Learning-blue?style=for-the-badge)
 
 ---
 
 ## 🚀 Proyecto destacado: Patitas Unidas
 
 Aplicación full-stack para conectar refugios de animales con adoptantes.  
-**Stack:** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+**Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge) 
+![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) 
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
 Repositorios públicos:
 
@@ -30,7 +35,13 @@ Repositorios públicos:
 
 ## 🛠 Skills y herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) 
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white&style=for-the-badge)
 
 ---
 
