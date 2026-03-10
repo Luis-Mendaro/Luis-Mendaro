@@ -1,7 +1,7 @@
 # Luis Mendaro 👋
 
 Desarrollador **Fullstack Junior** | Aprendiendo **DevOps**  
-Ampliando conocimientos en desarrollo web, infraestructura y automatización, y **estudiando inglés para ampliar oportunidades **.
+Ampliando conocimientos en desarrollo web, infraestructura y automatización, y **estudiando inglés para ampliar oportunidades**.
 
 ---
 
